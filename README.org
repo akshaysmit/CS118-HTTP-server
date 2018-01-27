@@ -1,0 +1,6 @@
+#+TITLE: CS118, Project 1
+#+AUTHOR: Winter 2018
+#+OPTIONS: toc:nil
+
+
+AUTHORS: Akshay Smit (student ID), Nikola Samardzic (904-799-099)
